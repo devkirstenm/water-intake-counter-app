@@ -4,8 +4,8 @@ Welcome to the Water Tracker App! This simple web application helps you keep tra
 ![Water Tracker App Screenshot](./img/water-tracker-app-screenshot.png)
 
 ## Technologies Used 💻
-HTML
-CSS
+- HTML
+- CSS
 
 ## Credits 🙌
 The project presented here is a customized and adapted version of the "Passenger Counter App".
