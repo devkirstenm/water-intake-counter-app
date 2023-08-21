@@ -6,8 +6,9 @@ Welcome to the Water Tracker App! This simple web application helps you keep tra
 ## Technologies Used 💻
 - HTML
 - CSS
+- JavaScript
 
 ## Credits 🙌
-The project presented here is a customized and adapted version of the "Passenger Counter App".
+This project is a customized and adapted version of the "Passenger Counter App".
 
 This project is a part of the [Learn JavaScript](https://scrimba.com/learn/learnjavascript) course on Scrimba. 
